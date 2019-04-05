@@ -1,0 +1,12 @@
+.button_style{
+  margin-top: 200px;
+  text-align:center;
+}
+.button {
+  background-color:skyblue;
+  border: none;
+  color: white;
+  font-size: 15px;
+  height:40px;
+  width: 200px;
+}
