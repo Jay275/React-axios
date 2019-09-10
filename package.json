@@ -1,22 +1,23 @@
 {
-  "name": "react-axios",
-  "version": "1.0.0",
-  "description": "This project adopted from an online article for a practice purpose only.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jay275/React-axios.git"
-  },
-  "keywords": [
-    "SteveRogers@1"
-  ],
-  "author": "Jay",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jay275/React-axios/issues"
-  },
-  "homepage": "https://github.com/Jay275/React-axios#readme"
+    "name": "react-axios",
+    "version": "1.0.0",
+    "description": "This project adopted from an online article for a practice purpose only.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jay275/React-axios.git"
+    },
+    "keywords": [
+        "SteveRogers@1"
+    ],
+    "author": "Jay",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Jay275/React-axios/issues"
+    },
+    "homepage": "https://github.com/Jay275/React-axios#readme"
 }
